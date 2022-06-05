@@ -12,3 +12,5 @@ Step by Step guide to install rembg
 3. conda install pytorch torchvision torchaudio cpuonly -c pytorch
 4. pip install rembg
 5. if having problems with .u2net, update the file in the.u2net directory with this [file](https://drive.google.com/uc?id=1tCU5MM1LhRgGou5OpmpjBQbSrYIUoYab)
+6. To update rembg - python3 -m pip install --upgrade rembg / pip install --upgrade rembg
+
